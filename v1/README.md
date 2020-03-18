@@ -11,12 +11,12 @@ It's a process which takes some input, called **arguments**, and produces some i
 
 ## `Functional Light Programming`
 
-**Pure Functions**
-**Composition**
-**Immutability**
-**Closure**
-**Recursion**
-**List Transformation (map)**
-**List Exclusion (filter)**
-**List Composition (reduce)**
-**List Iteration (forEach)**
+* **Pure Functions**
+* **Composition**
+* **Immutability**
+* **Closure**
+* **Recursion**
+* **List Transformation (map)**
+* **List Exclusion (filter)**
+* **List Composition (reduce)**
+* **List Iteration (forEach)**
